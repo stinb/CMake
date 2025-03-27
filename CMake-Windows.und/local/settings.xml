@@ -12998,8 +12998,6 @@
               directory="./Utilities"/>
           </cpp_system_includes>
         </sync>
-        <found
-          name="cmGccDepfileLexerHelper.h"/>
         <sync
           name="cmGccDepfileReader.cxx"
           cpp_language_standard="c++17">

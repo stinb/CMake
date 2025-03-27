@@ -1,0 +1,5 @@
+{
+    "description": "CMake is an open-source, cross-platform meta-build system used to generate native build files for various operating systems and compilers. It simplifies the build process by using platform-independent configuration files (CMakeLists.txt). CMake also provides tools for testing and packaging software, making it a comprehensive build management solution.",
+    "keywords": null,
+    "name": "CMake - C++ Sample Project"
+}
