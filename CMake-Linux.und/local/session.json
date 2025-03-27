@@ -1,0 +1,18 @@
+{
+    "Session": "default",
+    "Sessions": {
+        "default": {
+            "SessionData": {
+                "Annotations": {
+                    "createdDtTm": "2025-03-24T15:54:12.694Z"
+                },
+                "LastAccessedPid": "2859869",
+                "analysis": {
+                    "background": {
+                        "started": true
+                    }
+                }
+            }
+        }
+    }
+}

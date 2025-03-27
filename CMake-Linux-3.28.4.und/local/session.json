@@ -1,0 +1,15 @@
+{
+    "Session": "default",
+    "Sessions": {
+        "default": {
+            "SessionData": {
+                "LastAccessedPid": "2857431",
+                "analysis": {
+                    "background": {
+                        "started": true
+                    }
+                }
+            }
+        }
+    }
+}
