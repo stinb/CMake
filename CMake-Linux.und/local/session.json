@@ -3,14 +3,1093 @@
     "Sessions": {
         "default": {
             "SessionData": {
-                "Annotations": {
-                    "createdDtTm": "2025-03-24T15:54:12.694Z"
+                "1_1920x1080": {
+                    "AI Overview": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "Annotations Viewer": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "ComparisonDbPanel": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "DockWidgets": {
+                        "FloatingWidgetOrder": [
+                        ],
+                        "OpenWindows": {
+                            "00AI Overview": {
+                                "height": 563,
+                                "width": 380
+                            },
+                            "01ProjectOverviewWidget": {
+                                "height": 510,
+                                "width": 395
+                            },
+                            "02EntityFilter": {
+                                "height": 536,
+                                "width": 395
+                            },
+                            "03Selector": {
+                                "height": 304,
+                                "width": 417
+                            },
+                            "04InfoBrowserWidget_0": {
+                                "height": 251,
+                                "width": 380
+                            }
+                        },
+                        "TabGroupFrontWidgets": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "EntityFilter": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "InfoBrowserWidget_0": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "IssueBrowser": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "ProjectOverviewWidget": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "EntityFilter"
+                        ]
+                    },
+                    "Selector": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    }
                 },
-                "LastAccessedPid": "2859869",
+                "Annotations": {
+                    "createdDtTm": "2025-03-27T16:50:41.980Z"
+                },
+                "EditorWindowList": [
+                    "./Source/cmWindowsRegistry.cxx",
+                    "./Source/cmDocumentationFormatter.cxx",
+                    "./Source/cmAddCompileOptionsCommand.h",
+                    "./Source/cmAddCustomCommandCommand.cxx",
+                    "./Source/cmSystemTools.cxx",
+                    "./Source/cmakemain.cxx"
+                ],
+                "EditorWindowSetting": {
+                    "2fb8462e6b3097d8af69b14ce7cd54e5": {
+                        "anchor": {
+                            "line": 0,
+                            "offset": 0
+                        },
+                        "caret": {
+                            "line": 0,
+                            "offset": 0
+                        },
+                        "container": 1,
+                        "height": 844,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 1101,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "7c9263a782d3b7c3d0ead11bc643c10c": {
+                        "anchor": {
+                            "line": 2873,
+                            "offset": 20
+                        },
+                        "caret": {
+                            "line": 2873,
+                            "offset": 34
+                        },
+                        "container": 1,
+                        "height": 844,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 2844,
+                        "width": 1101,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "ae96362decc5bdc4ca4625c0ad7e2951": {
+                        "anchor": {
+                            "line": 54,
+                            "offset": 7
+                        },
+                        "caret": {
+                            "line": 54,
+                            "offset": 20
+                        },
+                        "container": 1,
+                        "height": 844,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 24,
+                        "width": 1101,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "bb6fb894f076a5df1c7615d6041136ad": {
+                        "anchor": {
+                            "line": 151,
+                            "offset": 53
+                        },
+                        "caret": {
+                            "line": 151,
+                            "offset": 53
+                        },
+                        "container": 1,
+                        "height": 844,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 126,
+                        "width": 1101,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "ec1f35e63626a79bb5f75ae325babdb8": {
+                        "anchor": {
+                            "line": 1139,
+                            "offset": 6
+                        },
+                        "caret": {
+                            "line": 1139,
+                            "offset": 6
+                        },
+                        "container": 1,
+                        "height": 844,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 1120,
+                        "width": 1101,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "f0471f07117f301a4f5fde80cec9146b": {
+                        "anchor": {
+                            "line": 522,
+                            "offset": 10
+                        },
+                        "caret": {
+                            "line": 522,
+                            "offset": 13
+                        },
+                        "container": 1,
+                        "height": 844,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 493,
+                        "width": 1101,
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                "EntityFilter": {
+                    "LastEntityFilterUsed": "Main Functions"
+                },
+                "GraphCustomizerTemporarySets": {
+                    "3": {
+                        "Control Flow": {
+                            "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
+                                "3": {
+                                    "CreatedOn": "2025-03-27",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Classic",
+                                    "HideUnhighlightedNodes": false,
+                                    "IdNodeOpts": {
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 38": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 39": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 40": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 41": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 42": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 43": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 44": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 45": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 46": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 47": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 48": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 49": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 50": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 51": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 52": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 53": 1
+                                    },
+                                    "LastModifiedOn": "2025-03-27",
+                                    "Theme": "STI_CONTROL_FLOW",
+                                    "graphdisplay_center_x": 695,
+                                    "graphdisplay_center_y": 220,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1920x1080": {
+                                            "container": 1,
+                                            "height": 844,
+                                            "isMaximized": false,
+                                            "width": 1101,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "main"
+                            }
+                        }
+                    },
+                    "5": {
+                        "Butterfly": {
+                            "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
+                                "5": {
+                                    "CreatedOn": "2025-03-27",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Compare (Classic)",
+                                    "LastModifiedOn": "2025-03-27",
+                                    "graphdisplay_center_x": 675,
+                                    "graphdisplay_center_y": 12975,
+                                    "graphdisplay_legend_x": 1371,
+                                    "graphdisplay_legend_y": 299,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_diffsplitter_state": "AAAA/wAAAAEAAAACAAACJQAAAXcB/////wEAAAACAA==",
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1920x1080": {
+                                            "container": 1,
+                                            "height": 844,
+                                            "isMaximized": false,
+                                            "width": 1101,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "main"
+                            }
+                        }
+                    },
+                    "6": {
+                        "Calls": {
+                            "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
+                                "6": {
+                                    "CreatedOn": "2025-03-27",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "With Global Objects (Classic)",
+                                    "LastModifiedOn": "2025-03-27",
+                                    "graphdisplay_center_x": 278.5,
+                                    "graphdisplay_center_y": 474.25,
+                                    "graphdisplay_legend_x": 736,
+                                    "graphdisplay_legend_y": 665,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 80,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1920x1080": {
+                                            "container": 1,
+                                            "height": 844,
+                                            "isMaximized": false,
+                                            "width": 1101,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "main"
+                            }
+                        }
+                    },
+                    "7": {
+                        "Includeby": {
+                            "Type=Entity ID=@l.#SLASH#Source#SLASH#cmAddCompileOptionsCommand.h": {
+                                "7": {
+                                    "CreatedOn": "2025-03-27",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Classic",
+                                    "LastModifiedOn": "2025-03-27",
+                                    "graphdisplay_center_x": -33,
+                                    "graphdisplay_center_y": -8,
+                                    "graphdisplay_legend_x": 1209,
+                                    "graphdisplay_legend_y": 566,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1920x1080": {
+                                            "container": 1,
+                                            "height": 844,
+                                            "isMaximized": false,
+                                            "width": 1101,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "cmAddCompileOptionsCommand.h"
+                            }
+                        }
+                    },
+                    "8": {
+                        "Declaration": {
+                            "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
+                                "8": {
+                                    "CreatedOn": "2025-03-27",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Classic",
+                                    "LastModifiedOn": "2025-03-27",
+                                    "graphdisplay_center_x": 106,
+                                    "graphdisplay_center_y": 292,
+                                    "graphdisplay_legend_x": 1607,
+                                    "graphdisplay_legend_y": 747,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1920x1080": {
+                                            "container": 1,
+                                            "height": 844,
+                                            "isMaximized": false,
+                                            "width": 1101,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "main"
+                            }
+                        }
+                    },
+                    "9": {
+                        "UML Sequence Diagram": {
+                            "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
+                                "9": {
+                                    "CreatedOn": "2025-03-27",
+                                    "EntNodeOpts": {
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": 256
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Classic",
+                                    "LastModifiedOn": "2025-03-27",
+                                    "Level": 1,
+                                    "graphdisplay_center_x": -94,
+                                    "graphdisplay_center_y": 857,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1920x1080": {
+                                            "container": 1,
+                                            "height": 844,
+                                            "isMaximized": false,
+                                            "width": 1101,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "main"
+                            }
+                        }
+                    }
+                },
+                "GraphWindowList": [
+                    "Graph:|:Unused:Butterfly:|:@lmain@kmain@f./Source/cmakemain.cxx:|:5:|:Butterfly : main",
+                    "Graph:|:Unused:UML Sequence Diagram:|:@lmain@kmain@f./Source/cmakemain.cxx:|:9:|:UML Sequence Diagram : main",
+                    "Graph:|:Unused:Declaration:|:@lmain@kmain@f./Source/cmakemain.cxx:|:8:|:Declaration : main",
+                    "Graph:|:Unused:Control Flow:|:@lmain@kmain@f./Source/cmakemain.cxx:|:3:|:Control Flow : main",
+                    "Graph:|:Unused:Calls:|:@lmain@kmain@f./Source/cmakemain.cxx:|:6:|:Calls : main",
+                    "Graph:|:Unused:Includeby:|:@l./Source/cmAddCompileOptionsCommand.h:|:7:|:Includeby : cmAddCompileOptionsCommand.h"
+                ],
+                "GraphicFilterSettings": {
+                    "Enabled": false
+                },
+                "IBExpansions": {
+                    "EmbeddedInfoBrowser": [
+                        "Jovial References",
+                        "Python References",
+                        "WEB References",
+                        "WEB Possible References",
+                        "Asm References",
+                        "Ada References",
+                        "Ftn References",
+                        "AI",
+                        "AIParent",
+                        "VHDL References",
+                        "c# References",
+                        "C++ References",
+                        "Java References",
+                        "basic References",
+                        "Pascal References"
+                    ],
+                    "InfoBrowserWidget": [
+                        "Python References",
+                        "Jovial References",
+                        "WEB References",
+                        "Ftn Metrics",
+                        "basic Metrics",
+                        "COBOL References",
+                        "WEB Possible References",
+                        "Plm References",
+                        "Asm References",
+                        "Ada References",
+                        "Ftn References",
+                        "C++ Defined In",
+                        "c# Metrics",
+                        "Graphs",
+                        "Java Metrics",
+                        "AIParent",
+                        "VHDL References",
+                        "c# References",
+                        "C++ Called By",
+                        "C++ References",
+                        "basic References",
+                        "Pascal References"
+                    ]
+                },
+                "IBHidden": {
+                    "EmbeddedInfoBrowser": [
+                    ],
+                    "InfoBrowserWidget": [
+                    ]
+                },
+                "IBOptions": {
+                    "EmbeddedInfoBrowser": {
+                        "C++ Called By": {
+                        },
+                        "C++ Calls": {
+                        },
+                        "C++ Defined In": {
+                        },
+                        "C++ Externals Used": {
+                        },
+                        "C++ File Global": {
+                        },
+                        "C++ File Global Functions": {
+                        },
+                        "C++ File Global Variables": {
+                        },
+                        "C++ File Local Constants": {
+                        },
+                        "C++ File Local Functions": {
+                        },
+                        "C++ File Local Macros": {
+                        },
+                        "C++ File Local Types": {
+                        },
+                        "C++ File Local Variables": {
+                        },
+                        "C++ File Member Variables": {
+                        },
+                        "C++ File Members": {
+                        },
+                        "C++ Fullname": {
+                        },
+                        "C++ Function Local Variables": {
+                        },
+                        "C++ Globals Used": {
+                        },
+                        "C++ Includes": {
+                        },
+                        "C++ Local": {
+                        },
+                        "C++ Macros Used": {
+                        },
+                        "C++ Metrics": {
+                        },
+                        "C++ Parameters": {
+                        },
+                        "C++ References": {
+                        },
+                        "C++ Return Type": {
+                        },
+                        "C++ Title": {
+                        }
+                    },
+                    "InfoBrowserWidget": {
+                        "": {
+                        },
+                        "Ada Calls": {
+                        },
+                        "Ada Fullname": {
+                        },
+                        "Ada Global": {
+                        },
+                        "Ada Global Packages": {
+                        },
+                        "Ada Local": {
+                        },
+                        "Ada Local Constants": {
+                        },
+                        "Ada Local Objects": {
+                        },
+                        "Ada Metrics": {
+                        },
+                        "Ada Parameters": {
+                        },
+                        "Ada Raises": {
+                        },
+                        "Ada References": {
+                        },
+                        "Ada Title": {
+                        },
+                        "Ada Uses": {
+                        },
+                        "Ada Withs": {
+                        },
+                        "Architectures": {
+                        },
+                        "C++ Assigned To": {
+                        },
+                        "C++ Assignments": {
+                        },
+                        "C++ Called By": {
+                        },
+                        "C++ Calls": {
+                        },
+                        "C++ Defined As": {
+                        },
+                        "C++ Defined In": {
+                        },
+                        "C++ Externals Used": {
+                        },
+                        "C++ File Global": {
+                        },
+                        "C++ File Global Functions": {
+                        },
+                        "C++ File Global Macros": {
+                        },
+                        "C++ File Global Types": {
+                        },
+                        "C++ File Global Variables": {
+                        },
+                        "C++ File Local Constants": {
+                        },
+                        "C++ File Local Function-Static Variables": {
+                        },
+                        "C++ File Local Functions": {
+                        },
+                        "C++ File Local Macros": {
+                        },
+                        "C++ File Local Types": {
+                        },
+                        "C++ File Member Functions": {
+                        },
+                        "C++ File Member Types": {
+                        },
+                        "C++ File Member Variables": {
+                        },
+                        "C++ File Members": {
+                        },
+                        "C++ Fullname": {
+                        },
+                        "C++ Function Local Constants": {
+                        },
+                        "C++ Function Local Variables": {
+                        },
+                        "C++ Globals Used": {
+                        },
+                        "C++ Includebys": {
+                        },
+                        "C++ Includes": {
+                        },
+                        "C++ Local": {
+                        },
+                        "C++ Local Defined In": {
+                        },
+                        "C++ Macros Used": {
+                        },
+                        "C++ Metrics": {
+                        },
+                        "C++ Overloads": {
+                        },
+                        "C++ Overridden By": {
+                        },
+                        "C++ Parameters": {
+                        },
+                        "C++ References": {
+                        },
+                        "C++ Return Type": {
+                        },
+                        "C++ Same Name": {
+                        },
+                        "C++ Title": {
+                        },
+                        "C++ Type": {
+                        },
+                        "C++ Value": {
+                        },
+                        "Ftn Fullname": {
+                        },
+                        "Ftn References": {
+                        },
+                        "Ftn Title": {
+                        },
+                        "Ftn Type": {
+                        },
+                        "Graphs": {
+                        },
+                        "Java Called By": {
+                        },
+                        "Java Calls": {
+                        },
+                        "Java Contains": {
+                        },
+                        "Java Couples": {
+                        },
+                        "Java Default": {
+                        },
+                        "Java Default Classes": {
+                        },
+                        "Java Default Methods": {
+                        },
+                        "Java Default Variables": {
+                        },
+                        "Java Defined In": {
+                        },
+                        "Java Extends": {
+                        },
+                        "Java Implements": {
+                        },
+                        "Java Imports": {
+                        },
+                        "Java Members": {
+                        },
+                        "Java Metrics": {
+                        },
+                        "Java Overridden By": {
+                        },
+                        "Java Overrides": {
+                        },
+                        "Java Package": {
+                        },
+                        "Java Parameters": {
+                        },
+                        "Java Parent": {
+                        },
+                        "Java Private": {
+                        },
+                        "Java Private Classes": {
+                        },
+                        "Java Private Methods": {
+                        },
+                        "Java Private Variables": {
+                        },
+                        "Java Public": {
+                        },
+                        "Java Public Classes": {
+                        },
+                        "Java Public Methods": {
+                        },
+                        "Java Public Variables": {
+                        },
+                        "Java References": {
+                        },
+                        "Java Return Type": {
+                        },
+                        "Java Same Name": {
+                        },
+                        "Java Subpackages": {
+                        },
+                        "Java Throws": {
+                        },
+                        "Java Title": {
+                        },
+                        "Java Type": {
+                        },
+                        "Java Variables": {
+                        },
+                        "Pascal Compilation Units": {
+                        },
+                        "Pascal Metrics": {
+                        },
+                        "Pascal Title": {
+                        },
+                        "Python Called By": {
+                        },
+                        "Python Calls": {
+                        },
+                        "Python Classes": {
+                        },
+                        "Python Defined In": {
+                        },
+                        "Python Fullname": {
+                        },
+                        "Python Functions": {
+                        },
+                        "Python Imported By": {
+                        },
+                        "Python Imports": {
+                        },
+                        "Python Metrics": {
+                        },
+                        "Python Parameters": {
+                        },
+                        "Python References": {
+                        },
+                        "Python Title": {
+                        },
+                        "Python Variables": {
+                        },
+                        "VHDL Architecture Units": {
+                        },
+                        "VHDL Called By": {
+                        },
+                        "VHDL Calls": {
+                        },
+                        "VHDL Declared In": {
+                        },
+                        "VHDL Entity Units": {
+                        },
+                        "VHDL Fullname": {
+                        },
+                        "VHDL Library": {
+                        },
+                        "VHDL Library Units": {
+                        },
+                        "VHDL Metrics": {
+                        },
+                        "VHDL Parameters": {
+                        },
+                        "VHDL References": {
+                        },
+                        "VHDL Title": {
+                        },
+                        "basic Called By": {
+                        },
+                        "basic Calls": {
+                        },
+                        "basic Defined In": {
+                        },
+                        "basic Fullname": {
+                        },
+                        "basic Members": {
+                        },
+                        "basic Method Parameters": {
+                        },
+                        "basic Method Variables": {
+                        },
+                        "basic Metrics": {
+                        },
+                        "basic Public Fields": {
+                        },
+                        "basic Public Members": {
+                        },
+                        "basic Public Methods": {
+                        },
+                        "basic References": {
+                        },
+                        "basic Return Type": {
+                        },
+                        "basic Title": {
+                        },
+                        "c# Called By": {
+                        },
+                        "c# Calls": {
+                        },
+                        "c# Defined In": {
+                        },
+                        "c# Fullname": {
+                        },
+                        "c# Members": {
+                        },
+                        "c# Method Parameters": {
+                        },
+                        "c# Method Variables": {
+                        },
+                        "c# Metrics": {
+                        },
+                        "c# Public Members": {
+                        },
+                        "c# Public Methods": {
+                        },
+                        "c# Public Types": {
+                        },
+                        "c# References": {
+                        },
+                        "c# Return Type": {
+                        },
+                        "c# Title": {
+                        }
+                    }
+                },
+                "InfoBrowserWindowManager": {
+                    "InfoBrowserSyncKinds": {
+                        "0": [
+                            "Entities",
+                            "Architectures",
+                            "Commits",
+                            "Violations"
+                        ]
+                    }
+                },
+                "LastAccessedPid": "53192",
+                "LastDisplayGroup": "1_1920x1080",
+                "MaintainEditorHistory": {
+                    "FileRanges": {
+                        "0": {
+                            "ColumnBegin": 53,
+                            "ColumnEnd": 53,
+                            "FilePath": "./Source/cmDocumentationFormatter.cxx",
+                            "LineBegin": 152,
+                            "LineEnd": 152
+                        },
+                        "1": {
+                            "ColumnBegin": 4,
+                            "ColumnEnd": 8,
+                            "FilePath": "./Source/cmakemain.cxx",
+                            "LineBegin": 1140,
+                            "LineEnd": 1140
+                        },
+                        "10": {
+                            "ColumnBegin": 16,
+                            "ColumnEnd": 16,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 50,
+                            "LineEnd": 50
+                        },
+                        "11": {
+                            "ColumnBegin": 4,
+                            "ColumnEnd": 8,
+                            "FilePath": "./Source/cmakemain.cxx",
+                            "LineBegin": 1140,
+                            "LineEnd": 1140
+                        },
+                        "12": {
+                            "ColumnBegin": 22,
+                            "ColumnEnd": 22,
+                            "FilePath": "./Source/cmakemain.cxx",
+                            "LineBegin": 1142,
+                            "LineEnd": 1142
+                        },
+                        "13": {
+                            "ColumnBegin": 20,
+                            "ColumnEnd": 34,
+                            "FilePath": "./Source/cmSystemTools.cxx",
+                            "LineBegin": 2874,
+                            "LineEnd": 2874
+                        },
+                        "14": {
+                            "ColumnBegin": 16,
+                            "ColumnEnd": 16,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 50,
+                            "LineEnd": 50
+                        },
+                        "15": {
+                            "ColumnBegin": 30,
+                            "ColumnEnd": 30,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 52,
+                            "LineEnd": 52
+                        },
+                        "16": {
+                            "ColumnBegin": 19,
+                            "ColumnEnd": 19,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 55,
+                            "LineEnd": 55
+                        },
+                        "17": {
+                            "ColumnBegin": 0,
+                            "ColumnEnd": 0,
+                            "FilePath": "./Source/cmAddCompileOptionsCommand.h",
+                            "LineBegin": 1,
+                            "LineEnd": 1
+                        },
+                        "18": {
+                            "ColumnBegin": 7,
+                            "ColumnEnd": 20,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 55,
+                            "LineEnd": 55
+                        },
+                        "19": {
+                            "ColumnBegin": 22,
+                            "ColumnEnd": 22,
+                            "FilePath": "./Source/cmakemain.cxx",
+                            "LineBegin": 1142,
+                            "LineEnd": 1142
+                        },
+                        "2": {
+                            "ColumnBegin": 0,
+                            "ColumnEnd": 0,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 1,
+                            "LineEnd": 1
+                        },
+                        "20": {
+                            "ColumnBegin": 4,
+                            "ColumnEnd": 8,
+                            "FilePath": "./Source/cmakemain.cxx",
+                            "LineBegin": 1140,
+                            "LineEnd": 1140
+                        },
+                        "21": {
+                            "ColumnBegin": 20,
+                            "ColumnEnd": 34,
+                            "FilePath": "./Source/cmSystemTools.cxx",
+                            "LineBegin": 2874,
+                            "LineEnd": 2874
+                        },
+                        "22": {
+                            "ColumnBegin": 4,
+                            "ColumnEnd": 8,
+                            "FilePath": "./Source/cmakemain.cxx",
+                            "LineBegin": 1140,
+                            "LineEnd": 1140
+                        },
+                        "3": {
+                            "ColumnBegin": 0,
+                            "ColumnEnd": 0,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 10,
+                            "LineEnd": 10
+                        },
+                        "4": {
+                            "ColumnBegin": 9,
+                            "ColumnEnd": 14,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 7,
+                            "LineEnd": 7
+                        },
+                        "5": {
+                            "ColumnBegin": 30,
+                            "ColumnEnd": 30,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 51,
+                            "LineEnd": 51
+                        },
+                        "6": {
+                            "ColumnBegin": 30,
+                            "ColumnEnd": 30,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 49,
+                            "LineEnd": 49
+                        },
+                        "7": {
+                            "ColumnBegin": 16,
+                            "ColumnEnd": 16,
+                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
+                            "LineBegin": 50,
+                            "LineEnd": 50
+                        },
+                        "8": {
+                            "ColumnBegin": 10,
+                            "ColumnEnd": 13,
+                            "FilePath": "./Source/cmWindowsRegistry.cxx",
+                            "LineBegin": 523,
+                            "LineEnd": 523
+                        },
+                        "9": {
+                            "ColumnBegin": 53,
+                            "ColumnEnd": 53,
+                            "FilePath": "./Source/cmDocumentationFormatter.cxx",
+                            "LineBegin": 152,
+                            "LineEnd": 152
+                        },
+                        "size": 23
+                    },
+                    "index": 22
+                },
+                "MiscSaveStates": {
+                    "entitySelected": "@lmain@kmain@f./Source/cmakemain.cxx",
+                    "ib": "entity:||:@lmain@kmain@f./Source/cmakemain.cxx",
+                    "projectOverviewCharts": "true",
+                    "projectOverviewChartsPosition": 1,
+                    "projectOverviewChartsSelected": "true",
+                    "projectOverviewChartsWorkspace": 0,
+                    "selection": "main"
+                },
+                "ProjectUI": {
+                    "projectviewcuritem": "cmAddCompileOptionsCommand.h",
+                    "projectviewselection": [
+                        "cmAddCompileOptionsCommand.h"
+                    ]
+                },
+                "SplitWorkspace1SelectedTab": "",
+                "SplitWorkspace1Tabs": [
+                    "./Source/cmakemain.cxx",
+                    "Graph:|:Unused:Control Flow:|:@lmain@kmain@f./Source/cmakemain.cxx:|:3:|:Control Flow : main",
+                    "./Source/cmAddCustomCommandCommand.cxx",
+                    "./Source/cmDocumentationFormatter.cxx",
+                    "./Source/cmWindowsRegistry.cxx",
+                    "./Source/cmSystemTools.cxx",
+                    "./Source/cmAddCompileOptionsCommand.h",
+                    "Graph:|:Unused:Butterfly:|:@lmain@kmain@f./Source/cmakemain.cxx:|:5:|:Butterfly : main",
+                    "Graph:|:Unused:Calls:|:@lmain@kmain@f./Source/cmakemain.cxx:|:6:|:Calls : main",
+                    "Graph:|:Unused:Includeby:|:@l./Source/cmAddCompileOptionsCommand.h:|:7:|:Includeby : cmAddCompileOptionsCommand.h",
+                    "Graph:|:Unused:Declaration:|:@lmain@kmain@f./Source/cmakemain.cxx:|:8:|:Declaration : main",
+                    "Graph:|:Unused:UML Sequence Diagram:|:@lmain@kmain@f./Source/cmakemain.cxx:|:9:|:UML Sequence Diagram : main"
+                ],
+                "SplittableWorkspace": {
+                    "active workspace": 0,
+                    "primary ws size": 1101,
+                    "split orientation": -1
+                },
                 "analysis": {
                     "background": {
                         "started": true
                     }
+                },
+                "violationbrowser": {
+                    "filter": "checkid:\"RECOMMENDED_08\""
                 }
             }
         }
