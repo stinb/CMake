@@ -29,20 +29,20 @@
                         "FloatingWidgetOrder": [
                         ],
                         "OpenWindows": {
-                            "00AI Overview": {
-                                "height": 563,
+                            "00ProjectOverviewWidget": {
+                                "height": 484,
+                                "width": 396
+                            },
+                            "01AI Overview": {
+                                "height": 583,
                                 "width": 380
                             },
-                            "01ProjectOverviewWidget": {
-                                "height": 510,
-                                "width": 395
-                            },
                             "02EntityFilter": {
-                                "height": 536,
-                                "width": 395
+                                "height": 510,
+                                "width": 396
                             },
                             "03Selector": {
-                                "height": 304,
+                                "height": 350,
                                 "width": 417
                             },
                             "04InfoBrowserWidget_0": {
@@ -93,14 +93,14 @@
                     }
                 },
                 "Annotations": {
-                    "createdDtTm": "2025-03-27T16:50:41.980Z"
+                    "createdDtTm": "2025-04-23T15:53:57.537Z"
                 },
                 "EditorWindowList": [
-                    "./Source/cmWindowsRegistry.cxx",
-                    "./Source/cmDocumentationFormatter.cxx",
-                    "./Source/cmAddCompileOptionsCommand.h",
-                    "./Source/cmAddCustomCommandCommand.cxx",
                     "./Source/cmSystemTools.cxx",
+                    "./Source/cmAddCustomCommandCommand.cxx",
+                    "./Source/cmAddCompileOptionsCommand.h",
+                    "./Source/cmDocumentationFormatter.cxx",
+                    "./Source/cmWindowsRegistry.cxx",
                     "./Source/cmakemain.cxx"
                 ],
                 "EditorWindowSetting": {
@@ -119,8 +119,8 @@
                         "isMaximized": false,
                         "vscroll": 0,
                         "width": 1101,
-                        "x": 0,
-                        "y": 0
+                        "x": 410,
+                        "y": 63
                     },
                     "7c9263a782d3b7c3d0ead11bc643c10c": {
                         "anchor": {
@@ -137,8 +137,8 @@
                         "isMaximized": false,
                         "vscroll": 2844,
                         "width": 1101,
-                        "x": 0,
-                        "y": 0
+                        "x": 410,
+                        "y": 63
                     },
                     "ae96362decc5bdc4ca4625c0ad7e2951": {
                         "anchor": {
@@ -155,8 +155,8 @@
                         "isMaximized": false,
                         "vscroll": 24,
                         "width": 1101,
-                        "x": 0,
-                        "y": 0
+                        "x": 410,
+                        "y": 63
                     },
                     "bb6fb894f076a5df1c7615d6041136ad": {
                         "anchor": {
@@ -173,8 +173,8 @@
                         "isMaximized": false,
                         "vscroll": 126,
                         "width": 1101,
-                        "x": 0,
-                        "y": 0
+                        "x": 410,
+                        "y": 63
                     },
                     "ec1f35e63626a79bb5f75ae325babdb8": {
                         "anchor": {
@@ -186,11 +186,11 @@
                             "offset": 6
                         },
                         "container": 1,
-                        "height": 844,
+                        "height": 864,
                         "hscroll": 0,
                         "isMaximized": false,
                         "vscroll": 1120,
-                        "width": 1101,
+                        "width": 1121,
                         "x": 0,
                         "y": 0
                     },
@@ -209,75 +209,22 @@
                         "isMaximized": false,
                         "vscroll": 493,
                         "width": 1101,
-                        "x": 0,
-                        "y": 0
+                        "x": 410,
+                        "y": 63
                     }
                 },
                 "EntityFilter": {
                     "LastEntityFilterUsed": "Main Functions"
                 },
                 "GraphCustomizerTemporarySets": {
-                    "3": {
-                        "Control Flow": {
-                            "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
-                                "3": {
-                                    "CreatedOn": "2025-03-27",
-                                    "FormatVersion": 1,
-                                    "GraphStyle": "Classic",
-                                    "HideUnhighlightedNodes": false,
-                                    "IdNodeOpts": {
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 38": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 39": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 40": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 41": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 42": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 43": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 44": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 45": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 46": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 47": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 48": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 49": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 50": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 51": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 52": 1,
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 53": 1
-                                    },
-                                    "LastModifiedOn": "2025-03-27",
-                                    "Theme": "STI_CONTROL_FLOW",
-                                    "graphdisplay_center_x": 695,
-                                    "graphdisplay_center_y": 220,
-                                    "graphdisplay_overview_x": 10,
-                                    "graphdisplay_overview_y": 10,
-                                    "graphdisplay_zoom": 100,
-                                    "graphwindow_fitheight": false,
-                                    "graphwindow_fitwidth": false,
-                                    "graphwindow_radar": true,
-                                    "graphwindow_reuse": false,
-                                    "graphwindow_sync": false,
-                                    "window": {
-                                        "1_1920x1080": {
-                                            "container": 1,
-                                            "height": 844,
-                                            "isMaximized": false,
-                                            "width": 1101,
-                                            "x": 0,
-                                            "y": 0
-                                        }
-                                    }
-                                },
-                                "GraphRootName": "main"
-                            }
-                        }
-                    },
-                    "5": {
+                    "11": {
                         "Butterfly": {
                             "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
-                                "5": {
-                                    "CreatedOn": "2025-03-27",
+                                "11": {
+                                    "CreatedOn": "2025-04-23",
                                     "FormatVersion": 1,
                                     "GraphStyle": "Compare (Classic)",
-                                    "LastModifiedOn": "2025-03-27",
+                                    "LastModifiedOn": "2025-04-23",
                                     "graphdisplay_center_x": 675,
                                     "graphdisplay_center_y": 12975,
                                     "graphdisplay_legend_x": 1371,
@@ -306,21 +253,23 @@
                             }
                         }
                     },
-                    "6": {
-                        "Calls": {
+                    "12": {
+                        "UML Sequence Diagram": {
                             "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
-                                "6": {
-                                    "CreatedOn": "2025-03-27",
+                                "12": {
+                                    "CreatedOn": "2025-04-23",
+                                    "EntNodeOpts": {
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": 256
+                                    },
                                     "FormatVersion": 1,
-                                    "GraphStyle": "With Global Objects (Classic)",
-                                    "LastModifiedOn": "2025-03-27",
-                                    "graphdisplay_center_x": 278.5,
-                                    "graphdisplay_center_y": 474.25,
-                                    "graphdisplay_legend_x": 736,
-                                    "graphdisplay_legend_y": 665,
+                                    "GraphStyle": "Classic",
+                                    "LastModifiedOn": "2025-04-23",
+                                    "Level": 1,
+                                    "graphdisplay_center_x": -94,
+                                    "graphdisplay_center_y": 857,
                                     "graphdisplay_overview_x": 10,
                                     "graphdisplay_overview_y": 10,
-                                    "graphdisplay_zoom": 80,
+                                    "graphdisplay_zoom": 100,
                                     "graphwindow_fitheight": false,
                                     "graphwindow_fitwidth": false,
                                     "graphwindow_radar": true,
@@ -341,49 +290,14 @@
                             }
                         }
                     },
-                    "7": {
-                        "Includeby": {
-                            "Type=Entity ID=@l.#SLASH#Source#SLASH#cmAddCompileOptionsCommand.h": {
-                                "7": {
-                                    "CreatedOn": "2025-03-27",
-                                    "FormatVersion": 1,
-                                    "GraphStyle": "Classic",
-                                    "LastModifiedOn": "2025-03-27",
-                                    "graphdisplay_center_x": -33,
-                                    "graphdisplay_center_y": -8,
-                                    "graphdisplay_legend_x": 1209,
-                                    "graphdisplay_legend_y": 566,
-                                    "graphdisplay_overview_x": 10,
-                                    "graphdisplay_overview_y": 10,
-                                    "graphdisplay_zoom": 100,
-                                    "graphwindow_fitheight": false,
-                                    "graphwindow_fitwidth": false,
-                                    "graphwindow_radar": true,
-                                    "graphwindow_reuse": false,
-                                    "graphwindow_sync": false,
-                                    "window": {
-                                        "1_1920x1080": {
-                                            "container": 1,
-                                            "height": 844,
-                                            "isMaximized": false,
-                                            "width": 1101,
-                                            "x": 0,
-                                            "y": 0
-                                        }
-                                    }
-                                },
-                                "GraphRootName": "cmAddCompileOptionsCommand.h"
-                            }
-                        }
-                    },
-                    "8": {
+                    "13": {
                         "Declaration": {
                             "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
-                                "8": {
-                                    "CreatedOn": "2025-03-27",
+                                "13": {
+                                    "CreatedOn": "2025-04-23",
                                     "FormatVersion": 1,
                                     "GraphStyle": "Classic",
-                                    "LastModifiedOn": "2025-03-27",
+                                    "LastModifiedOn": "2025-04-23",
                                     "graphdisplay_center_x": 106,
                                     "graphdisplay_center_y": 292,
                                     "graphdisplay_legend_x": 1607,
@@ -411,20 +325,36 @@
                             }
                         }
                     },
-                    "9": {
-                        "UML Sequence Diagram": {
+                    "14": {
+                        "Control Flow": {
                             "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
-                                "9": {
-                                    "CreatedOn": "2025-03-27",
-                                    "EntNodeOpts": {
-                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": 256
-                                    },
+                                "14": {
+                                    "CreatedOn": "2025-04-23",
                                     "FormatVersion": 1,
                                     "GraphStyle": "Classic",
-                                    "LastModifiedOn": "2025-03-27",
-                                    "Level": 1,
-                                    "graphdisplay_center_x": -94,
-                                    "graphdisplay_center_y": 857,
+                                    "HideUnhighlightedNodes": false,
+                                    "IdNodeOpts": {
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 38": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 39": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 40": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 41": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 42": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 43": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 44": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 45": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 46": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 47": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 48": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 49": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 50": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 51": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 52": 1,
+                                        "@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx - 53": 1
+                                    },
+                                    "LastModifiedOn": "2025-04-23",
+                                    "Theme": "STI_CONTROL_FLOW",
+                                    "graphdisplay_center_x": 695,
+                                    "graphdisplay_center_y": 220,
                                     "graphdisplay_overview_x": 10,
                                     "graphdisplay_overview_y": 10,
                                     "graphdisplay_zoom": 100,
@@ -447,15 +377,85 @@
                                 "GraphRootName": "main"
                             }
                         }
+                    },
+                    "15": {
+                        "Calls": {
+                            "Type=Entity ID=@lmain@kmain@f.#SLASH#Source#SLASH#cmakemain.cxx": {
+                                "15": {
+                                    "CreatedOn": "2025-04-23",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "With Global Objects (Classic)",
+                                    "LastModifiedOn": "2025-04-23",
+                                    "graphdisplay_center_x": 278.5,
+                                    "graphdisplay_center_y": 474.25,
+                                    "graphdisplay_legend_x": 736,
+                                    "graphdisplay_legend_y": 665,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 80,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1920x1080": {
+                                            "container": 1,
+                                            "height": 844,
+                                            "isMaximized": false,
+                                            "width": 1101,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "main"
+                            }
+                        }
+                    },
+                    "16": {
+                        "Includeby": {
+                            "Type=Entity ID=@l.#SLASH#Source#SLASH#cmAddCompileOptionsCommand.h": {
+                                "16": {
+                                    "CreatedOn": "2025-04-23",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Classic",
+                                    "LastModifiedOn": "2025-04-23",
+                                    "graphdisplay_center_x": -33,
+                                    "graphdisplay_center_y": -8,
+                                    "graphdisplay_legend_x": 1209,
+                                    "graphdisplay_legend_y": 566,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1920x1080": {
+                                            "container": 1,
+                                            "height": 844,
+                                            "isMaximized": false,
+                                            "width": 1101,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "cmAddCompileOptionsCommand.h"
+                            }
+                        }
                     }
                 },
                 "GraphWindowList": [
-                    "Graph:|:Unused:Butterfly:|:@lmain@kmain@f./Source/cmakemain.cxx:|:5:|:Butterfly : main",
-                    "Graph:|:Unused:UML Sequence Diagram:|:@lmain@kmain@f./Source/cmakemain.cxx:|:9:|:UML Sequence Diagram : main",
-                    "Graph:|:Unused:Declaration:|:@lmain@kmain@f./Source/cmakemain.cxx:|:8:|:Declaration : main",
-                    "Graph:|:Unused:Control Flow:|:@lmain@kmain@f./Source/cmakemain.cxx:|:3:|:Control Flow : main",
-                    "Graph:|:Unused:Calls:|:@lmain@kmain@f./Source/cmakemain.cxx:|:6:|:Calls : main",
-                    "Graph:|:Unused:Includeby:|:@l./Source/cmAddCompileOptionsCommand.h:|:7:|:Includeby : cmAddCompileOptionsCommand.h"
+                    "Graph:|:Unused:UML Sequence Diagram:|:@lmain@kmain@f./Source/cmakemain.cxx:|:12:|:UML Sequence Diagram : main",
+                    "Graph:|:Unused:Butterfly:|:@lmain@kmain@f./Source/cmakemain.cxx:|:11:|:Butterfly : main",
+                    "Graph:|:Unused:Declaration:|:@lmain@kmain@f./Source/cmakemain.cxx:|:13:|:Declaration : main",
+                    "Graph:|:Unused:Control Flow:|:@lmain@kmain@f./Source/cmakemain.cxx:|:14:|:Control Flow : main",
+                    "Graph:|:Unused:Calls:|:@lmain@kmain@f./Source/cmakemain.cxx:|:15:|:Calls : main",
+                    "Graph:|:Unused:Includeby:|:@l./Source/cmAddCompileOptionsCommand.h:|:16:|:Includeby : cmAddCompileOptionsCommand.h"
                 ],
                 "GraphicFilterSettings": {
                     "Enabled": false
@@ -879,208 +879,47 @@
                         ]
                     }
                 },
-                "LastAccessedPid": "53192",
+                "LastAccessedPid": "42626",
                 "LastDisplayGroup": "1_1920x1080",
                 "MaintainEditorHistory": {
                     "FileRanges": {
-                        "0": {
-                            "ColumnBegin": 53,
-                            "ColumnEnd": 53,
-                            "FilePath": "./Source/cmDocumentationFormatter.cxx",
-                            "LineBegin": 152,
-                            "LineEnd": 152
-                        },
-                        "1": {
-                            "ColumnBegin": 4,
-                            "ColumnEnd": 8,
-                            "FilePath": "./Source/cmakemain.cxx",
-                            "LineBegin": 1140,
-                            "LineEnd": 1140
-                        },
-                        "10": {
-                            "ColumnBegin": 16,
-                            "ColumnEnd": 16,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 50,
-                            "LineEnd": 50
-                        },
-                        "11": {
-                            "ColumnBegin": 4,
-                            "ColumnEnd": 8,
-                            "FilePath": "./Source/cmakemain.cxx",
-                            "LineBegin": 1140,
-                            "LineEnd": 1140
-                        },
-                        "12": {
-                            "ColumnBegin": 22,
-                            "ColumnEnd": 22,
-                            "FilePath": "./Source/cmakemain.cxx",
-                            "LineBegin": 1142,
-                            "LineEnd": 1142
-                        },
-                        "13": {
-                            "ColumnBegin": 20,
-                            "ColumnEnd": 34,
-                            "FilePath": "./Source/cmSystemTools.cxx",
-                            "LineBegin": 2874,
-                            "LineEnd": 2874
-                        },
-                        "14": {
-                            "ColumnBegin": 16,
-                            "ColumnEnd": 16,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 50,
-                            "LineEnd": 50
-                        },
-                        "15": {
-                            "ColumnBegin": 30,
-                            "ColumnEnd": 30,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 52,
-                            "LineEnd": 52
-                        },
-                        "16": {
-                            "ColumnBegin": 19,
-                            "ColumnEnd": 19,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 55,
-                            "LineEnd": 55
-                        },
-                        "17": {
-                            "ColumnBegin": 0,
-                            "ColumnEnd": 0,
-                            "FilePath": "./Source/cmAddCompileOptionsCommand.h",
-                            "LineBegin": 1,
-                            "LineEnd": 1
-                        },
-                        "18": {
-                            "ColumnBegin": 7,
-                            "ColumnEnd": 20,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 55,
-                            "LineEnd": 55
-                        },
-                        "19": {
-                            "ColumnBegin": 22,
-                            "ColumnEnd": 22,
-                            "FilePath": "./Source/cmakemain.cxx",
-                            "LineBegin": 1142,
-                            "LineEnd": 1142
-                        },
-                        "2": {
-                            "ColumnBegin": 0,
-                            "ColumnEnd": 0,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 1,
-                            "LineEnd": 1
-                        },
-                        "20": {
-                            "ColumnBegin": 4,
-                            "ColumnEnd": 8,
-                            "FilePath": "./Source/cmakemain.cxx",
-                            "LineBegin": 1140,
-                            "LineEnd": 1140
-                        },
-                        "21": {
-                            "ColumnBegin": 20,
-                            "ColumnEnd": 34,
-                            "FilePath": "./Source/cmSystemTools.cxx",
-                            "LineBegin": 2874,
-                            "LineEnd": 2874
-                        },
-                        "22": {
-                            "ColumnBegin": 4,
-                            "ColumnEnd": 8,
-                            "FilePath": "./Source/cmakemain.cxx",
-                            "LineBegin": 1140,
-                            "LineEnd": 1140
-                        },
-                        "3": {
-                            "ColumnBegin": 0,
-                            "ColumnEnd": 0,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 10,
-                            "LineEnd": 10
-                        },
-                        "4": {
-                            "ColumnBegin": 9,
-                            "ColumnEnd": 14,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 7,
-                            "LineEnd": 7
-                        },
-                        "5": {
-                            "ColumnBegin": 30,
-                            "ColumnEnd": 30,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 51,
-                            "LineEnd": 51
-                        },
-                        "6": {
-                            "ColumnBegin": 30,
-                            "ColumnEnd": 30,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 49,
-                            "LineEnd": 49
-                        },
-                        "7": {
-                            "ColumnBegin": 16,
-                            "ColumnEnd": 16,
-                            "FilePath": "./Source/cmAddCustomCommandCommand.cxx",
-                            "LineBegin": 50,
-                            "LineEnd": 50
-                        },
-                        "8": {
-                            "ColumnBegin": 10,
-                            "ColumnEnd": 13,
-                            "FilePath": "./Source/cmWindowsRegistry.cxx",
-                            "LineBegin": 523,
-                            "LineEnd": 523
-                        },
-                        "9": {
-                            "ColumnBegin": 53,
-                            "ColumnEnd": 53,
-                            "FilePath": "./Source/cmDocumentationFormatter.cxx",
-                            "LineBegin": 152,
-                            "LineEnd": 152
-                        },
-                        "size": 23
+                        "size": 0
                     },
-                    "index": 22
+                    "index": -1
                 },
                 "MiscSaveStates": {
                     "entitySelected": "@lmain@kmain@f./Source/cmakemain.cxx",
-                    "ib": "entity:||:@lmain@kmain@f./Source/cmakemain.cxx",
+                    "ib": "entity:||:@l./Source/cmAddExecutableCommand.cxx",
                     "projectOverviewCharts": "true",
-                    "projectOverviewChartsPosition": 1,
+                    "projectOverviewChartsPosition": 0,
                     "projectOverviewChartsSelected": "true",
                     "projectOverviewChartsWorkspace": 0,
-                    "selection": "main"
+                    "selection": "cmAddExecutableCommand.cxx"
                 },
                 "ProjectUI": {
-                    "projectviewcuritem": "cmAddCompileOptionsCommand.h",
+                    "projectviewcuritem": "cmAddExecutableCommand.cxx",
                     "projectviewselection": [
-                        "cmAddCompileOptionsCommand.h"
+                        "cmAddExecutableCommand.cxx"
                     ]
                 },
                 "SplitWorkspace1SelectedTab": "",
                 "SplitWorkspace1Tabs": [
                     "./Source/cmakemain.cxx",
-                    "Graph:|:Unused:Control Flow:|:@lmain@kmain@f./Source/cmakemain.cxx:|:3:|:Control Flow : main",
+                    "Graph:|:Unused:Control Flow:|:@lmain@kmain@f./Source/cmakemain.cxx:|:14:|:Control Flow : main",
                     "./Source/cmAddCustomCommandCommand.cxx",
                     "./Source/cmDocumentationFormatter.cxx",
                     "./Source/cmWindowsRegistry.cxx",
                     "./Source/cmSystemTools.cxx",
                     "./Source/cmAddCompileOptionsCommand.h",
-                    "Graph:|:Unused:Butterfly:|:@lmain@kmain@f./Source/cmakemain.cxx:|:5:|:Butterfly : main",
-                    "Graph:|:Unused:Calls:|:@lmain@kmain@f./Source/cmakemain.cxx:|:6:|:Calls : main",
-                    "Graph:|:Unused:Includeby:|:@l./Source/cmAddCompileOptionsCommand.h:|:7:|:Includeby : cmAddCompileOptionsCommand.h",
-                    "Graph:|:Unused:Declaration:|:@lmain@kmain@f./Source/cmakemain.cxx:|:8:|:Declaration : main",
-                    "Graph:|:Unused:UML Sequence Diagram:|:@lmain@kmain@f./Source/cmakemain.cxx:|:9:|:UML Sequence Diagram : main"
+                    "Graph:|:Unused:Butterfly:|:@lmain@kmain@f./Source/cmakemain.cxx:|:11:|:Butterfly : main",
+                    "Graph:|:Unused:Calls:|:@lmain@kmain@f./Source/cmakemain.cxx:|:15:|:Calls : main",
+                    "Graph:|:Unused:Includeby:|:@l./Source/cmAddCompileOptionsCommand.h:|:16:|:Includeby : cmAddCompileOptionsCommand.h",
+                    "Graph:|:Unused:Declaration:|:@lmain@kmain@f./Source/cmakemain.cxx:|:13:|:Declaration : main",
+                    "Graph:|:Unused:UML Sequence Diagram:|:@lmain@kmain@f./Source/cmakemain.cxx:|:12:|:UML Sequence Diagram : main"
                 ],
                 "SplittableWorkspace": {
                     "active workspace": 0,
-                    "primary ws size": 1101,
+                    "primary ws size": 1121,
                     "split orientation": -1
                 },
                 "analysis": {
