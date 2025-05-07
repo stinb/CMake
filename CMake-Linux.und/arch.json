@@ -1,0 +1,22 @@
+{
+    "auto": {
+        "Copyright and License": {
+            "name": "Copyright and License"
+        },
+        "Git Stability": {
+            "name": "Git Stability",
+            "options": {
+                "date": "Most Recent Commit"
+            }
+        },
+        "Owner": {
+            "name": "Git Owner"
+        }
+    },
+    "ents": {
+    },
+    "notes": {
+    },
+    "tags": [
+    ]
+}
