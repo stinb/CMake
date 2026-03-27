@@ -41,3 +41,7 @@
 
 # Understand local databases
 *.udb
+
+# Files Understand isn't using
+/Tests/
+/Utilities/
